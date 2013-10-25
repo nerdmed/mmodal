@@ -1,0 +1,10 @@
+{
+  "name": "mmodal",
+  "description": "Empowering Meteor with nice modal windows",
+  "homepage": "https://github.com/nerdmed/mmodal.git",
+  "author": "Medmed",
+  "version": "0.1.0",
+  "git": "git@github.com:nerdmed/mmodal.git",
+  "packages": {
+  }
+}
