@@ -15,3 +15,6 @@ Features following:
 ## Quick Start
 
 not ready to use - explanation following soon
+
+
+  Mmodal.show(templatename)
