@@ -1,4 +1,4 @@
-#mmodal - not Ready
+mmodal - not Ready
 ======
 
 Mmodal is a Meteor package for adding modal windows inside your application
